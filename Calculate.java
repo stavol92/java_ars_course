@@ -1,4 +1,7 @@
-
+/**
+* Adding calc files
+* @param first, second - args
+*/
 
 public class Calculate{
 	
